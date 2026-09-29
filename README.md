@@ -7,3 +7,6 @@ https://www.geeksforgeeks.org/c/convert-string-to-int-in-c/
 
 How to read a file line by line in C:
 https://www.geeksforgeeks.org/c/read-a-file-line-by-line-in-c/
+
+How to fork in C:
+https://www.geeksforgeeks.org/c/fork-system-call/
